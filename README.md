@@ -1,4 +1,4 @@
-Hello My name is Maksim Gavrilenko!
+Hello 🖐 My name is Maksim Gavrilenko!
 ==================================
 
 Student in Netology
